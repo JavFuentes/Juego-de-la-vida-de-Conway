@@ -1,6 +1,6 @@
 # El juego de la vida de Conway
 
-![conway](https://user-images.githubusercontent.com/122236197/236596720-3f330f76-069a-418b-8ccf-2607f564d6db.gif)
+![conway](https://media.giphy.com/media/62WEdEZq4FYJ9cIf7X/giphy.gif)
 
 ## Explicación
 
