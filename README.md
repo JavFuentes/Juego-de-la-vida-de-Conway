@@ -14,7 +14,7 @@ El juego de la vida ha sido objeto de estudio en la ciencia de la computación, 
 
 ## Programa
 
-El programa del juego de la vida es un programa que simula la evolución de células en un tablero de cuadrícula bidimensional. El programa típicamente funciona de la siguiente manera:
+El programa del juego de la vida simula la evolución de células en un tablero de cuadrícula bidimensional. El programa típicamente funciona de la siguiente manera:
 
 1. Se crea una cuadrícula bidimensional, que es una matriz de celdas cuadradas que representan el estado de cada célula en el tablero.
 
